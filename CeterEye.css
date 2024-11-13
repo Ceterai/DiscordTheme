@@ -1,0 +1,30 @@
+/**
+ * @name Ceterai's Lair
+ * @author Ceterai
+ * @version 1.0.0
+ * @description Something I made for my own comfort - a dark blue theme with a small monospace font.
+
+ * @source https://github.com/Ceterai/DiscordTheme
+ * @website https://linktr.ee/ceterai
+ * @donate https://buymeacoffee.com/ceterai
+ * @invite gGEwZ5vbgr
+
+ * @authorId 279670457999949824
+ * @authorLink https://steamcommunity.com/id/ceterai
+*/
+
+/** CREDITS
+ * Artwork:
+ * - Stardust Moonbeam (default background) by Ceterai: https://www.deviantart.com/ceterai/art/Stardust-Moonbeam-960010662
+ * - Deep Sea by Valve - The Debut Collection: https://store.steampowered.com/points/shop/app/1263950
+*/
+
+@import url(https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/src/main.css);
+:root {
+	/* Colors */
+	--ct_1: #cce8ff; --ct_2: #b0e0fc; --ct_3: #60c0fc; --ct_4: #2080f0; --ct_5: #0050c0; --ct_6: #002e68; --ct_7: #001428;
+	/* Font */
+	--ct_font: "Lucida Console", "Courier New";
+	/* Background Image */
+	--background: url("https://steamuserimages-a.akamaihd.net/ugc/1300926725692886328/7E012423F231CE386050AB5316A06359022F4B79/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+}
