@@ -1,7 +1,7 @@
 /**
- * @name Ceterai's Lair
+ * @name CeterEye
  * @author Ceterai
- * @version 1.0.0
+ * @version 0.0.1
  * @description Something I made for my own comfort - a dark blue theme with a small monospace font.
 
  * @source https://github.com/Ceterai/DiscordTheme
@@ -19,7 +19,7 @@
  * - Deep Sea by Valve - The Debut Collection: https://store.steampowered.com/points/shop/app/1263950
 */
 
-@import url(https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/src/main.css);
+@import url(https://ceterai.github.io/DiscordTheme/main.css);
 :root {
 	/* Colors */
 	--ct_1: #cce8ff; --ct_2: #b0e0fc; --ct_3: #60c0fc; --ct_4: #2080f0; --ct_5: #0050c0; --ct_6: #002e68; --ct_7: #001428;

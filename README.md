@@ -1,4 +1,4 @@
-# Ceterai's Lair
+# CeterEye Discord Theme
 
 A fairly basic Discord theme base for BetterDiscord themes.
 
@@ -7,6 +7,23 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 - [Website](https://linktr.ee/ceterai)
 - [Donate](https://buymeacoffee.com/ceterai)
 - Discord - see repo description
+
+## Installation
+
+### BetterDiscord
+
+- *COMING SOON*
+
+### Directly
+
+1. Go to the **Releases** page of this repo;
+2. Download the latest release `theme.css` file;
+3. Put it in the BetterDiscord's `themes` folder.
+
+## Deployment
+
+Source CSS files get mirrored to GitHub Pages for access from the downloadable ones:
+[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [https://ceterai.github.io/](https://ceterai.github.io/)
 
 ## Credits
 
