@@ -22,8 +22,8 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 
 ## Deployment
 
-Source CSS files get mirrored to GitHub Pages for access from the downloadable ones:
-[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [https://ceterai.github.io/](https://ceterai.github.io/)
+Source CSS files can be found in GitHub Pages:
+[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [https://ceterai.github.io/](https://ceterai.github.io/DiscordTheme/)
 
 ## Credits
 
