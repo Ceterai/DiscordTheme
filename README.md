@@ -1,12 +1,14 @@
 # CeterEye Discord Theme
 
+<div align="center" style="font-size: 150%;">
+<a class="ct_button" href="https://ceterai.github.io">WEBSITE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="discord.gg/gGEwZ5vbgr">DISCORD</a> | <a class="ct_button" href="https://github.com/Ceterai/DiscordTheme">GITHUB</a>
+</div>
+
+## Description
+
 A fairly basic Discord theme base for BetterDiscord themes.
 
 Something I made for my own comfort - a dark blue theme with a small monospace font.
-
-- [Website](https://linktr.ee/ceterai)
-- [Donate](https://buymeacoffee.com/ceterai)
-- Discord - see repo description
 
 ## Installation
 
@@ -23,11 +25,4 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 ## Deployment
 
 Source CSS files can be found in GitHub Pages:
-[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [https://ceterai.github.io/](https://ceterai.github.io/DiscordTheme/)
-
-## Credits
-
-### Artwork
-
-- [**Stardust Moonbeam**](https://www.deviantart.com/ceterai/art/Stardust-Moonbeam-960010662) (default background) by [**Ceterai**](https://linktr.ee/ceterai)
-- **Deep Sea** by **Valve** - [The Debut Collection](https://store.steampowered.com/points/shop/app/1263950)
+[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [Discord Themes](https://ceterai.github.io/DiscordThemes)
