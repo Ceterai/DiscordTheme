@@ -26,3 +26,7 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 
 Source CSS files can be found in GitHub Pages:
 [Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [Discord Themes](https://ceterai.github.io/DiscordThemes)
+
+## Showcase
+
+<img src="https://raw.githubusercontent.com/Ceterai/DiscordTheme/refs/heads/main/art/showcase.png" alt="Theme Showcase Image" width="100%">
