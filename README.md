@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://ceterai.github.io/ceterai.css"></link>
-
 # CeterEye Discord Theme
 
 <div align="center" style="font-size: 150%;">
