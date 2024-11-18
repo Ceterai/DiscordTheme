@@ -12,10 +12,6 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 
 ## Installation
 
-### BetterDiscord
-
-- *COMING SOON*
-
 ### Directly
 
 1. Go to the **Releases** page of this repo;
