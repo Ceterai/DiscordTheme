@@ -1,7 +1,7 @@
 # CeterEye Discord Theme
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io">WEBSITE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="discord.gg/gGEwZ5vbgr">DISCORD</a> | <a class="ct_button" href="https://github.com/Ceterai/DiscordTheme">GITHUB</a>
+<a class="ct_button" href="https://ceterai.github.io">WEBSITE</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a> | <a class="ct_button" href="https://github.com/Ceterai/DiscordTheme">GITHUB</a>
 </div>
 
 ## Description
