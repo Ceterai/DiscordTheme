@@ -1,16 +1,16 @@
 /**
  * @name CeterEye
  * @author Ceterai
- * @version 0.0.1
+ * @version 1.0.0
  * @description Something I made for my own comfort - a dark blue theme with a small monospace font.
 
  * @source https://github.com/Ceterai/DiscordTheme
- * @website https://linktr.ee/ceterai
+ * @website https://ceterai.github.io/Workshop/DiscordThemes/CeterEye
  * @donate https://buymeacoffee.com/ceterai
  * @invite gGEwZ5vbgr
 
  * @authorId 279670457999949824
- * @authorLink https://steamcommunity.com/id/ceterai
+ * @authorLink https://ceterai.github.io
 */
 
 /** CREDITS
@@ -18,12 +18,14 @@
  * - Deep Sea by Valve - The Debut Collection: https://store.steampowered.com/points/shop/app/1263950
 */
 
-@import url(https://ceterai.github.io/DiscordTheme/main.css);
+@import url(https://ceterai.github.io/Workshop/DiscordThemes/main.css);
 :root {
-	/* Colors */
-	--ct_1: #cce8ff; --ct_2: #b0e0fc; --ct_3: #60c0fc; --ct_4: #2080f0; --ct_5: #0050c0; --ct_6: #002e68; --ct_7: #001428;
-	/* Font */
-	--ct_font: "Lucida Console", "Courier New";
-	/* Background Image */
-	--background: url("https://steamuserimages-a.akamaihd.net/ugc/1300926725692886328/7E012423F231CE386050AB5316A06359022F4B79/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+  /* COLORS */
+  /* Use `--ct_{0-8}` variables to set colors.
+  /* FONT */
+  /* Use the `--ct_font` variable to set the font/a list of fonts separated by commas.
+  /* BACKGROUND */
+  --background: url("https://steamuserimages-a.akamaihd.net/ugc/1300926725692886328/7E012423F231CE386050AB5316A06359022F4B79/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+  /* OTHER */
+  /* All variables and their defaults can be found here: https://ceterai.github.io/Workshop/DiscordThemes/base.css#:root */
 }

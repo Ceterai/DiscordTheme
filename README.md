@@ -1,7 +1,7 @@
 # CeterEye Discord Theme
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/DiscordThemes/CeterEye">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/DiscordTheme">GITHUB</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/Workshop/DiscordThemes/CeterEye">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/DiscordTheme">GITHUB</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 ## Description
@@ -21,7 +21,7 @@ Something I made for my own comfort - a dark blue theme with a small monospace f
 ## Deployment
 
 Source CSS files can be found in GitHub Pages:
-[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [Discord Themes](https://ceterai.github.io/DiscordThemes)
+[Ceterai's Lair](https://github.com/Ceterai/Ceterai.github.io) - [Discord Themes](https://ceterai.github.io/Workshop/DiscordThemes)
 
 ## Showcase
 
